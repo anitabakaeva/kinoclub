@@ -35,7 +35,7 @@ ___
 |3|gut|щеки цвета рождества|
 |4|okay|алые розы, беззащитны шипы|
 
-
+AAAAAAA MOJNO TAAAAk prosti ya ne ponumayu!!
 
 
 [hi Dima](https://www.google.com)
