@@ -22,11 +22,20 @@ ___
 4. h
 5. t
 
-| Youtube        |is            | Cool  |
+| wealth        | fame           | money  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
+|кол-во пропущенных пар |настроение | чувство стыда|
+|-----------------------|:---------:|-------------:|
+|1| 2 cool 4 school| not even a shape of it|
+|2|excelentemente|щеки-розовый закат|
+|3|gut|щеки цвета рождества|
+|4|okay|алые розы, беззащитны шипы|
+
+
 
 
 [hi Dima](https://www.google.com)
