@@ -9,6 +9,8 @@ _movies are coolll_
 
 ~~movies suck~~
 
+miss me??
+
 ***
 * m
 * o
@@ -28,6 +30,9 @@ ___
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+did you miss me?
+miss me, didnt you?
+
 |кол-во пропущенных пар |настроение | чувство стыда|
 |-----------------------|:---------:|-------------:|
 |1| 2 cool 4 school| not even a shape of it|
@@ -35,6 +40,7 @@ ___
 |3|gut|щеки цвета рождества|
 |4|okay|алые розы, беззащитны шипы|
 
+![meme](https://financialpostcom.files.wordpress.com/2018/01/ad.jpg)
 
 
 
